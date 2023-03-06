@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Amablie
+- 👋 Hi, I’m Amábile
 - 👀 I’m interested in Data Science, BI, Data Visualization and Statistic
 - 🌱 I’m currently learning Statistc
 - 💞️ I’m looking to collaborate on Data Science projects
