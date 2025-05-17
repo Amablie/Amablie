@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Amábile
-- 👀 I’m interested in Data Science, BI, Data Visualization and Statistic
+- 👀 I’m interested in Data Science, Analytics Engineering and Statistic
 - 🌱 I’m currently learning Statistc
-- 💞️ I’m looking to collaborate on Data Science projects
+- 💞️ I’m looking to collaborate on Analytics Engineering and Data Science projects
 - 📫 How to reach me amabilegaldin11@gmail.com
 
 <!---
